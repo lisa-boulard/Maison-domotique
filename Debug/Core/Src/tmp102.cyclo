@@ -1,0 +1,4 @@
+../Core/Src/tmp102.c:9:19:TMP102_Init	3
+../Core/Src/tmp102.c:36:19:TMP102_Measure	4
+../Core/Src/tmp102.c:66:7:TMP102_RawToCelsius	1
+../Core/Src/tmp102.c:73:9:TMP102_RawToMilliC	2
